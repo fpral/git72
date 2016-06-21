@@ -53,14 +53,14 @@
   </parent>
   <groupId>org.jahia.modules</groupId>
   <artifactId>releasegit</artifactId>
-  <version>1.0</version>
+  <version>1.1-SNAPSHOT</version>
   <packaging>bundle</packaging>
   <name>releasegit</name>
   <description>This is the custom module (releasegit) for running on a Digital Experience Manager server.</description>
   <scm>
     <connection>scm:git:git@github.com:fpral/git72.git</connection>
     <developerConnection>scm:git:git@github.com:fpral/git72.git</developerConnection>
-    <tag>1_0</tag>
+    <tag>HEAD</tag>
   </scm>
   <repositories>
     <repository>
